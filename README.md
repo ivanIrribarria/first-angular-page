@@ -1,3 +1,4 @@
+[![GitHub Pages](https://github.com/ivanIrribarria/first-angular-page/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://github.com/ivanIrribarria/first-angular-page/actions/workflows/gh-pages.yml)
 # AngularBare
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
